@@ -1,5 +1,7 @@
 ### Hi there, I'm Fenguoz 👋
 
+![Fenguoz's Github stats](https://github-readme-stats.vercel.app/api?username=Fenguoz&show_icons=true)
+
 - Documentation: [GitHub pages](https://fenguoz.github.io)
 
 
