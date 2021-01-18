@@ -1,5 +1,13 @@
 # Hi there, I'm Fenguoz 👋
 
+## Operating System & Tools
+
+[![macOS](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+
+[![PHPStorm](https://img.shields.io/badge/IDE-PHPStorm-yellow?style=flat-square&logo=PHPStorm)](https://www.jetbrains.com/phpstorm/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
 ## Technology Stack
 
 [![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.org/)
