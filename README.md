@@ -1,16 +1,21 @@
 # Hi there, I'm Fenguoz 👋
 
+- 🔭 I’m currently working on PHP, HyperF and Blockchain.
+- 🌱 I’m currently learning PHP source cod.
+- 💬 Ask me about everything.
+- ⚡ Fun fact: eating food and meeting new people!
+
 ## Operating System & Tools
 
-[![macOS](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+[![macOS](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![centOS](https://img.shields.io/badge/-CentOS-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 
-[![PHPStorm](https://img.shields.io/badge/IDE-PHPStorm-yellow?style=flat-square&logo=PHPStorm)](https://www.jetbrains.com/phpstorm/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![PHPStorm](https://img.shields.io/badge/-PHPStorm-yellow?style=flat-square&logo=PHPStorm)](https://www.jetbrains.com/phpstorm/)
 
 ## Technology Stack
 
-[![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.org/)
+[![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
@@ -23,26 +28,10 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Fenguoz&show_icons=true&hide_title=true" />
 <!-- wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenguoz&langs_count=7&layout=compact&hide_title=true" />
 </a>
-
-
-<!--
-**Fenguoz/Fenguoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
