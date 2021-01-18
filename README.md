@@ -2,8 +2,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Fenguoz's Github stats](https://github-readme-stats.vercel.app/api?username=Fenguoz&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenguoz&langs_count=7&layout=compact)
+![Fenguoz's Github stats](https://github-readme-stats.vercel.app/api?username=Fenguoz&show_icons=true&hide_title=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenguoz&langs_count=7&layout=compact&hide_title=true)
 
 - Documentation: [GitHub pages](https://fenguoz.github.io)
 
