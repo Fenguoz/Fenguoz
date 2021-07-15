@@ -1,7 +1,7 @@
 # Hi there, I'm Fenguoz 👋
 
 - 🔭 I’m currently working on PHP, HyperF and Blockchain.
-- 🌱 I’m currently learning PHP source cod.
+- 🌱 I’m currently learning PHP source code.
 - 💬 Ask me about everything.
 - ⚡ Fun fact: eating food and meeting new people!
 
