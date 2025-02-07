@@ -18,7 +18,7 @@
 
 [![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net)
 [![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org)
-[![Vue](https://shields.io/badge/react-black?logo=react&style=flat-square)](https://react.dev)
+[![Vue](https://shields.io/badge/React-black?logo=react&style=flat-square)](https://react.dev)
 
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
