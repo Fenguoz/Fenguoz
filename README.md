@@ -11,12 +11,14 @@
 [![centOS](https://img.shields.io/badge/-CentOS-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![PHPStorm](https://img.shields.io/badge/-PHPStorm-yellow?style=flat-square&logo=PHPStorm)](https://www.jetbrains.com/phpstorm/)
+[![Termius](https://img.shields.io/badge/-Termius-000000?style=flat-square&logo=termius)](https://termius.com)
+[![Ganache](https://img.shields.io/badge/-Ganache-yellow?style=flat-square&logo=Ganache)](https://archive.trufflesuite.com/ganache/)
 
 ## Technology Stack
 
 [![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org)
+[![Vue](https://shields.io/badge/react-black?logo=react&style=flat-square)](https://react.dev)
 
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
